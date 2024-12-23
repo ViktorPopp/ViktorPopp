@@ -1,3 +1,5 @@
+<img align="right" width="450" src="bubbles.webp">
+
 # Hi there, I'm Viktor Popp 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast. Here you'll find a collection of my projects, code contributions, and more.
