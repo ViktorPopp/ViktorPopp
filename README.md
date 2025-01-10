@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 - 🔭 I’m currently working on InfinityOS a small operating system
 - 🌱 I’m currently learning about low-level assembly and C
 - 🤔 I’m looking for help with operating system development
-- 💬 Ask me about C/C++, Flutter or Game Development
+- 💬 Ask me about C/C++, operating systems or Game Development
 - 📫 How to reach me: viktorpopp.dev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started programming when i was 10
@@ -115,7 +115,7 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 
 Here are some of my notable projects:
 
-- [Infinity OS](https://infinityos-dev.github.io/): Lightweight easy to use operating made to limit e-waste.
+- [Infinity OS](https://infinityos-dev.github.io/core): Lightweight easy to use operating made to limit e-waste.
 - [The Slime Invasion](https://hexuro.itch.io/the-slime-invasion): A small vampire survivors-like game made during a summer camp called NerdCamp.
 - [Learn Assembly](https://github.com/ViktorPopp/LearnAssembly): Full course on learning x64 assembly. Intended for system programmers, OS developers and reverse engineers.
 
