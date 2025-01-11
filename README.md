@@ -115,7 +115,7 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 
 Here are some of my notable projects:
 
-- [Infinity OS](https://infinityos-dev.github.io/core): Lightweight easy to use operating made to limit e-waste.
+- [Infinity OS](https://github.com/infinityos-dev/core): Lightweight easy to use operating made to limit e-waste.
 - [The Slime Invasion](https://hexuro.itch.io/the-slime-invasion): A small vampire survivors-like game made during a summer camp called NerdCamp.
 - [Learn Assembly](https://github.com/ViktorPopp/LearnAssembly): Full course on learning x64 assembly. Intended for system programmers, OS developers and reverse engineers.
 
