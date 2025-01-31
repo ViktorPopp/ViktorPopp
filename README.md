@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 ## About Me
 
 - 🔭 I’m currently working on InfinityOS a small operating system
-- 🌱 I’m currently learning about low-level assembly and C
+- 🌱 I’m currently learning about low-level assembly, C and Rust
 - 🤔 I’m looking for help with operating system development
 - 💬 Ask me about C/C++, operating systems or Game Development
 - 📫 How to reach me: viktorpopp.dev@gmail.com
