@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast. Here you'll find a collection of my projects, code contributions, and more.
 
+**My Rust OSDev Discord server: [https://discord.gg/v9cjaBsnzJ](https://discord.gg/v9cjaBsnzJ)**
+
 ## About Me
 
 - 🔭 I’m currently working on InfinityOS a small operating system
