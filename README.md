@@ -28,9 +28,6 @@ and more.
 <a href="https://www.python.org/" target="_blank" aria-label="Python">
 	<img src="https://skillicons.dev/icons?i=py" alt="python logo" width="45" height="45" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" aria-label="JavaScript">
-	<img src="https://skillicons.dev/icons?i=js" alt="javascript logo" width="45" height="45" />
-</a>
 <a href="https://www.typescriptlang.org/" target="_blank" aria-label="TypeScript">
 	<img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" width="45" height="45" />
 </a>
@@ -52,9 +49,6 @@ and more.
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" aria-label="PowerShell">
 	<img src="https://skillicons.dev/icons?i=powershell" alt="powershell logo" width="45" height="45" />
 </a>
-<a href="https://www.markdownguide.org/" target="_blank" aria-label="Markdown">
-	<img src="https://skillicons.dev/icons?i=markdown" alt="markdown logo" width="45" height="45" />
-</a>
 
 ### Frameworks & Libraries
 
@@ -73,12 +67,6 @@ and more.
 <a href="https://unity.com/" target="_blank" aria-label="Unity">
 	<img src="https://skillicons.dev/icons?i=unity" alt="unity logo" width="45" height="45" />
 </a>
-<a href="https://www.unrealengine.com/" target="_blank" aria-label="Unreal Engine">
-	<img src="https://skillicons.dev/icons?i=unrealengine" alt="unrealengine logo" width="45" height="45" />
-</a>
-<a href="https://www.yoyogames.com/en/gamemaker" target="_blank" aria-label="GameMaker Studio">
-	<img src="https://skillicons.dev/icons?i=gamemakerstudio" alt="gamemaker logo" width="45" height="45" />
-</a>
 
 ### Tools & Platforms
 
@@ -91,12 +79,6 @@ and more.
 <a href="https://github.com/features/actions" target="_blank" aria-label="GitHub Actions">
 	<img src="https://skillicons.dev/icons?i=githubactions" alt="github actions logo" width="45" height="45" />
 </a>
-<a href="https://firebase.google.com/" target="_blank" aria-label="Firebase">
-	<img src="https://skillicons.dev/icons?i=firebase" alt="firebase logo" width="45" height="45" />
-</a>
-<a href="https://dotnet.microsoft.com/" target="_blank" aria-label=".NET">
-	<img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet logo" width="45" height="45" />
-</a>
 <a href="https://wikipedia.org/wiki/Linux" target="_blank" aria-label="Linux">
 	<img src="https://skillicons.dev/icons?i=linux" alt="linux logo" width="45" height="45" />
 </a>
@@ -105,9 +87,6 @@ and more.
 </a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank" aria-label="Windows">
 	<img src="https://skillicons.dev/icons?i=windows" alt="windows logo" width="45" height="45" />
-</a>
-<a href="https://developer.android.com/studio" target="_blank" aria-label="Android Studio">
-	<img src="https://skillicons.dev/icons?i=androidstudio" alt="android studio logo" width="45" height="45" />
 </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" aria-label="Visual Studio">
 	<img src="https://skillicons.dev/icons?i=visualstudio" alt="visual studio logo" width="45" height="45" />
