@@ -110,10 +110,6 @@ Here are some of my notable projects:
   learning x64 assembly. Intended for system programmers, OS developers and
   reverse engineers.
 
-## My GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ViktorPopp)
-
 <!--
 ## Connect with Me
 
