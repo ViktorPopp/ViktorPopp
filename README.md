@@ -110,12 +110,27 @@ Here are some of my notable projects:
   learning x64 assembly. Intended for system programmers, OS developers and
   reverse engineers.
 
-<!--
-## Connect with Me
-
-- [LinkedIn](Your LinkedIn Profile)
-- [Twitter](Your Twitter Profile)
-- [Personal Website](Your Personal Website)
--->
+```mermaid
+timeline
+title My Journey
+age of 10
+	: HTML
+	: CSS
+	: Javascript
+	: Discord.js
+age of 11
+	: C
+	: C++
+	: C#
+	: Unity
+age of 12 : Linux
+	: Typescript
+	: Python
+age of 13 : Godot
+	: Flutter
+	: Dart
+	: Pwsh/Bash
+	: Rust
+```
 
 Thanks for visiting my profile!
