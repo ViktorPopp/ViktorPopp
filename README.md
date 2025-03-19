@@ -102,8 +102,8 @@ and more.
 
 Here are some of my notable projects:
 
-- [Infinity OS](https://github.com/infinityos-dev/core): Lightweight easy to use
-  operating made to limit e-waste.
+- [Hexium OS](https://github.com/HexiumOS/Hexium): 🦀 Lightweight
+  operating system written in Rust.
 - [The Slime Invasion](https://hexuro.itch.io/the-slime-invasion): A small
   vampire survivors-like game made during a summer camp called NerdCamp.
 - [Learn Assembly](https://github.com/ViktorPopp/LearnAssembly): Full course on
