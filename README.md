@@ -134,3 +134,5 @@ age of 13 : Godot
 ```
 
 Thanks for visiting my profile!
+![](https://komarev.com/ghpvc/?username=viktorpopp&style=flat-square&color=green)
+
