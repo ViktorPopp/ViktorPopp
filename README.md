@@ -133,8 +133,8 @@ age of 13 : Godot
 	: Rust
 ```
 
-Thanks for visiting my profile!
-
-
+## Git Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=ViktorPopp)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=viktorpopp&style=flat-square&color=green)
 
+Thanks for visiting my profile!
