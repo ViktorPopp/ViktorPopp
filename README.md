@@ -23,7 +23,7 @@ and more.
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,c,cs,dart,ts,python,dart,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,c,cs,dart,ts,python,dart)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 
@@ -66,10 +66,10 @@ age of 12
 	: Linux
 	: Typescript
 	: Python
-age of 13 : Godot
+age of 13
+	: Godot
 	: Flutter
 	: Dart
-	: Pwsh/Bash
 	: Rust
 ```
 
