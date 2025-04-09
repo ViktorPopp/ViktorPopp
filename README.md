@@ -11,7 +11,7 @@ and more.
 
 ## About Me
 
-- 🔭 I’m currently working on InfinityOS a small operating system
+- 🔭 I’m currently working on Hexium OS a small operating system
 - 🌱 I’m currently learning about low-level assembly, C and Rust
 - 🤔 I’m looking for help with operating system development
 - 💬 Ask me about C/C++, operating systems or Game Development
