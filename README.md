@@ -23,7 +23,7 @@ and more.
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,c,cs,dart,ts,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,c,cs,dart,ts,python)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 
