@@ -33,9 +33,9 @@ and more.
 
 [![My Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
 
-### Tools & Platforms (In random order)
+### Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,linux,ubuntu,arch,windows,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,linux,windows,ubuntu,vscodevisualstudio)](https://skillicons.dev)
 
 ## Projects
 
