@@ -76,8 +76,8 @@ age of 13
 <!--## My socials-->
 
 ## Git Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ViktorPopp)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=viktorpopp&style=flat-square&color=green)
 
-**Thanks for visiting my profile!**
+**Thanks for visiting my profile!**<br>
+<sub>My archives: [@ViktorPoppArchive](https://github.com/ViktorPoppArchive)</sub>
