@@ -19,23 +19,15 @@ and more.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started programming when i was 10
 
-## Skills (From best to worst)
+## Skills
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,rust,c,cs,dart,ts,python)](https://skillicons.dev)
-
-### Frameworks & Libraries
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,discordjs)](https://skillicons.dev)
-
-### Game Development
-
-[![My Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,c,ts)](https://skillicons.dev)
 
 ### Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,linux,windows,ubuntu,vscodevisualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,linux,windows,ubuntu,vscode,visualstudio)](https://skillicons.dev)
 
 ## Projects
 
@@ -49,6 +41,7 @@ Here are some of my notable projects:
   learning x64 assembly. Intended for system programmers, OS developers and
   reverse engineers.
 
+<!--
 ```mermaid
 timeline
 title My Journey
@@ -74,8 +67,7 @@ age of 13
 age of 14
 	: More Rust 
 ```
-
-<!--## My socials-->
+-->
 
 ## Git Stats
 
