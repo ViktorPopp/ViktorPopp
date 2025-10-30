@@ -21,7 +21,7 @@ and more.
 
 Some links to my socials and GitHub organizations:
 
-* https://github.com/projectzerodev (Active)
+* https://github.com/projectzerodev (Partially Active)
 * https://codeberg.org/zerodev (Moving to GitHub)
 * https://codeberg.org/ViktorPopp (Abandoned)
 * https://github.com/HexiumOS (Abandoned)
