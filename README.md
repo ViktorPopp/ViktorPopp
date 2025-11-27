@@ -20,4 +20,10 @@ solving.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust)](https://skillicons.dev)
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,scss)](https://skillicons.dev)
+
+### Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
