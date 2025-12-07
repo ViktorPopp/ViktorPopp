@@ -22,7 +22,7 @@ solving.
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,rust)](https://skillicons.dev)
 
 ### Technologies
 
