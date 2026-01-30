@@ -1,29 +1,12 @@
-<img align="right" width="450" src="bubbles.webp">
+### Hello
 
-# Hi there, I'm Viktor Popp 👋
+I am a Danish hobbyist developer. My primary project is [Zinix](zinix), an open-source operating system.
 
-Welcome to my GitHub profile! I'm a passionate developer and technology
-enthusiast. Here you'll find a collection of my projects, code contributions,
-and more.
+I primarily do systems development but occasionally I also create [video games] and small utilities (working on a self-hosted DDNS service). I also like playing piano and solving Rubik's cubes. My personal best is 31.6 seconds.
 
-**My OSDev Discord server:
-[https://discord.gg/v9cjaBsnzJ](https://discord.gg/v9cjaBsnzJ)**
+For programming languages I mostly do Rust and C. I know the communities are quite "against" eachother, but people who can't accept its a subjective choice are just not good enough at either language so they shouldn't participate in such discussion.
 
-## About Me
+oh, and i use arch btw
 
-* 🔭 I'm currently working on a bunch of small projects to get better at problem
-solving.
-* 🌱 I’m currently learning about C#, Rust and C
-* 📫 How to reach me: [viktorpopp.dev@gmail.com](mailto:viktorpopp.dev@gmail.com)
-* 😄 Pronouns: He/Him
-* ⚡ Fun fact: I started programming when i was 10
-
-## Skills
-
-### Languages
-
-[![My Skills](https://skillicons.dev/icons?i=c,rust)](https://skillicons.dev)
-
-### Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
+[zinix]: https://github.com/projectzerodev/zinix
+[video games]: https://sukus.net/games/coding-pirates-gamejam-2025/zombie-apocalypse/
