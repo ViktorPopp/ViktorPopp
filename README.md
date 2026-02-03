@@ -6,7 +6,14 @@ I primarily do systems development but occasionally I also create [video games] 
 
 For programming languages I mostly use Rust and C, but I also play around with other technologies such as C# and Ruby.
 
-Regarding grass, i cannot access it because it is in the outside area which i have not unlocked yet, because I am only level 14.
+```
+### Achievements ###
+"Thats a lot of comments" - Unlocked
+Deploy on Friday          - Unlocked
+Touch Grass               - Locked
+Kill a Dragon             - Unlocked
+Talk to a NPC             - Locked
+```
 
 oh, and i use arch btw 
 
